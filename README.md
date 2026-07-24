@@ -76,7 +76,21 @@ I have completed two Higher National Diploma programmes and am currently followi
 </p>
 
 ---
+## 🤝 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/karthigeyanravi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Karthigeyan%20Ravindranathan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://x.com/karthik01524544" target="_blank">
+    <img src="https://img.shields.io/badge/X-@karthik01524544-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Account" />
+  </a>
+
+  <a href="https://tryhackme.com/p/karthi98karthik19" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-karthi98karthik19-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+</p>
 ## 🛡️ Cybersecurity Knowledge
 
 - Network Security
