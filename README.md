@@ -150,6 +150,31 @@ I have completed two Higher National Diploma programmes and am currently followi
 
 ---
 
+---
+
+## 🏅 Microsoft Learn Achievements
+
+- 🎖️ Earned **17 Microsoft Learn badges**
+- 🏆 Earned **2 trophies**
+- ⭐ Reached **Microsoft Learn Level 6**
+- 📈 Gained more than **21,800 XP**
+- 📚 Continuously developing my knowledge through Microsoft Learn
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/karthikravi-7455/">
+    <img src="https://img.shields.io/badge/Microsoft%20Learn-Level%206-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/karthikravi-7455/">
+    🔗 View My Microsoft Learn Achievements
+  </a>
+</p>
+
+---
+
 ## 💡 Professional Goal
+
 
 > My goal is to build a successful career in cybersecurity, strengthen my practical knowledge and contribute to creating secure digital environments.
