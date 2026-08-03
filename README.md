@@ -8,9 +8,9 @@ Cybersecurity Student | Networking Graduate | Ethical Hacking Learner
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Cybersecurity+and+Networking+Graduate;BSc+(Hons)+Degree+Student;Ethical+Hacking+Learner;TryHackMe+Top+20%25;Completed+40%2B+TryHackMe+Rooms;Building+My+Cybersecurity+Career" alt="Typing Animation" />
 </p>
 
----
+                                                     ---------------------------------------------------------------------------
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me ##
 
 I am **Karthigeyan Ravindranathan**, a motivated cybersecurity and networking student from Sri Lanka 🇱🇰.
 
